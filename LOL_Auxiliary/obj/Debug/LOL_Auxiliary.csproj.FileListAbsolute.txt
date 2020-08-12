@@ -1,0 +1,61 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Genetic.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Neuro.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Vision.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AipSdk.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Genetic.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Neuro.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AForge.Vision.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\AipSdk.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.csprojResolveAssemblyReference.cache
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.exe.config
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.exe
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.pdb
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.exe
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\bin\Debug\LOL_Auxiliary.pdb
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.Form1.resources
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.Properties.Resources.resources
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.csproj.GenerateResource.Cache
+F:\C#\游戏脚本\LOL_Auxiliary\LOL_Auxiliary\obj\Debug\LOL_Auxiliary.csprojResolveAssemblyReference.cache
